@@ -162,3 +162,130 @@
   display: flex;
   justify-self: center;
 }
+
+/* =========================================================
+                       SECTION TWO
+============================================================ */
+
+.section-two-container {
+  display: flex;
+  justify-content: center;
+  margin: 96px 201px 0 201px;
+}
+
+.section-two-container h2 {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  color: #000000;
+  padding-bottom: 40px;
+}
+
+.section-two-main-services-div-one {
+  display: flex;
+  gap: 50px;
+}
+
+.section-two-Services-one > img {
+  width: 300px;
+  height: 209px;
+  border-radius: 12px;
+}
+
+.section-two-Services-one-heading {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  color: #0a2640;
+  padding-top: 24px;
+}
+
+.section-two-Services-one-heading span {
+  color: #777777;
+  padding-left: 12px;
+}
+
+.section-two-Services-one h4 {
+  font-weight: 400;
+  height: 99px;
+  font-size: 20px;
+  line-height: 32px;
+  width: 300px;
+  color: #000000;
+  padding-top: 12px;
+}
+
+.section-two-Services-one-botton-heading-and-img {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+}
+
+.section-two-Services-one-botton-heading-and-img img {
+  width: 32px;
+  height: 32px;
+}
+
+.section-two-Services-one-botton-heading-and-img div {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.section-two-Services-two h4 {
+  font-weight: 400;
+  height: 99px;
+  width: 300px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+  padding-top: 12px;
+}
+
+.section-two-Services-three h4 {
+  font-weight: 400;
+  height: 99px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+  width: 300px;
+  padding-top: 12px;
+}
+
+.section-two-main-services-div-two {
+  display: flex;
+  gap: 50px;
+  margin-top: 80px;
+}
+
+.section-two-Services-four h4 {
+  font-weight: 400;
+  height: 99px;
+  font-size: 20px;
+  line-height: 32px;
+  width: 300px;
+  color: #000000;
+  padding-top: 12px;
+}
+
+.section-two-Services-five h4 {
+  font-weight: 400;
+  height: 99px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+  width: 300px;
+  padding-top: 12px;
+}
+
+.section-two-Services-six h4 {
+  font-weight: 400;
+  height: 99px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+  width: 300px;
+  padding-top: 12px;
+}
