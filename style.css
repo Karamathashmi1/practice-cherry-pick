@@ -66,3 +66,29 @@
   border: 2px #0a2640 solid;
   background-color: transparent;
 }
+
+/* =========================================================
+                       MAIN SECTION
+============================================================ */
+
+.hero-section-container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.hero-section-container div {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #0a2640;
+  padding-top: 27.5px;
+  padding-bottom: 12px;
+}
+
+.hero-section-container h1 {
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 84px;
+  color: #0a2640;
+  padding-bottom: 27.5px;
+}
