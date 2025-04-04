@@ -396,3 +396,92 @@ body > a {
 .section-three-search-bar-and-button-div a button:active {
   background-color: rgb(194, 244, 219);
 }
+
+/* ====================================================================
+                         FOOTER START
+======================================================================= */
+
+.footer-container {
+  display: flex;
+  gap: 179px;
+  justify-content: center;
+  margin: 0 179px 0 100px;
+  padding: 100px 0 117px 0px;
+}
+
+.footer-container-div-one-main-div-one {
+  display: flex;
+  align-items: center;
+  width: 156px;
+  gap: 10.83px;
+}
+
+.footer-container-div-one-main-div-one img {
+  width: 24.92;
+  height: 32.37;
+}
+
+.footer-container-div-one-main-div-one h3 {
+  font-weight: 700;
+  font-size: 43.25px;
+  line-height: 33.64px;
+  color: #0a2640;
+}
+
+.footer-container-div-one p:nth-child(2) {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #777777;
+  padding-top: 40px;
+  width: 300px;
+}
+
+.footer-container-div-one p:nth-child(3) {
+  padding-top: 64px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #777777;
+}
+
+.footer-container-div-two {
+  display: flex;
+  gap: 96px;
+}
+
+.footer-container-div-two ul {
+  list-style: none;
+  /* padding: 0; */
+}
+
+.footer-container-div-two ul h4 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+  padding-bottom: 32px;
+}
+
+.footer-container-div-two ul li {
+  padding-bottom: 32px;
+}
+
+.footer-container-div-two ul li a {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  text-decoration: none;
+}
+
+.footer-colum-2-span {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 28px;
+  color: #0a2640;
+  border-radius: 120px;
+  padding: 3px 14px 3px 14px;
+  background-color: #65e4a3;
+  margin-left: 12px;
+}
