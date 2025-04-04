@@ -289,3 +289,42 @@
   width: 300px;
   padding-top: 12px;
 }
+
+
+/* =========================================================
+                      Load more button
+============================================================ */
+
+body > a {
+  text-decoration: none;
+}
+
+#load-more-buttton {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  border-radius: 56px;
+  border: 2px solid #0a2640;
+  color: #0a2640;
+  padding: 16px 56px;
+  margin-top: 96px;
+  display: flex;
+  justify-self: center;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+#load-more-buttton:hover {
+  background-color: #0a2640;
+  color: aliceblue;
+}
+
+#load-more-buttton:active {
+  background-color: #10508d;
+  color: aliceblue;
+}
+
+#load-more-buttton:visited {
+  background-color: #220a40;
+  color: rgb(102, 0, 255);
+}
