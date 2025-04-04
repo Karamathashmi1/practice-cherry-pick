@@ -328,3 +328,72 @@ body > a {
   background-color: #220a40;
   color: rgb(102, 0, 255);
 }
+
+/* =========================================================
+                      SECTION THREE
+============================================================ */
+
+.section-three-container {
+  margin: 124px 100px 84px 100px;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  background-color: #0a2640;
+  border-radius: 12px;
+  background-image: url(Blog-img/sec3-bg-img.svg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  width: 1200px;
+}
+
+.section-three-container form h2 {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 72px;
+}
+
+.section-three-search-bar-and-button-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 74px;
+}
+
+.section-three-search-bar-and-button-div input {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  border-radius: 240px;
+  border: transparent;
+  padding: 12px 158px 12px 32px;
+  /* width: 370px;
+  height: 56px; */
+}
+
+.section-three-search-bar-and-button-div a {
+  text-decoration: none;
+}
+
+.section-three-search-bar-and-button-div a button {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #0a2640;
+  border-radius: 56px;
+  background-color: #65e4a3;
+  padding: 16px 56px;
+  border: transparent;
+  margin-left: 24px;
+}
+
+.section-three-search-bar-and-button-div a button:hover {
+  background-color: #94f6c3;
+}
+
+.section-three-search-bar-and-button-div a button:active {
+  background-color: rgb(194, 244, 219);
+}
